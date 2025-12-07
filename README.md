@@ -18,6 +18,10 @@ This project builds a **Convolutional Neural Network (CNN)** to automatically de
 
 Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise (7 classes)
 
+# Data
+
+https://www.kaggle.com/datasets/fahadullaha/facial-emotion-recognition-dataset
+
 # Applications
 
 Emotion-aware AI, mental health support, HCI systems, smart surveillance
